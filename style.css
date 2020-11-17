@@ -1,0 +1,15 @@
+.one-head{
+    font-size: 22px;
+    color:#ee00ef;
+    font-weight: 500;   
+    font-style: italic;
+}
+.two-head{
+    font-size: 16px;
+    color:#333333;
+    font-weight: 500;   
+    font-style: italic;
+}
+body{
+    background:grey;
+}
